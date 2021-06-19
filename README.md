@@ -1,4 +1,5 @@
-### Fibonacci Nth:
+### Screenshot:
+![Fibonacci-Nth Screenshot](https://github.com/JMerch94/fibonacci-nth/blob/master/screenshot.png?raw=true)
 
 ### Generate a Build Using CMake
 https://cmake.org/download/
