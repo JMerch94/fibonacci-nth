@@ -1,14 +1,17 @@
-### Screenshot:
+# Fibonacci Nth
+Calculates the user input nth Fibonacci number and compares execution time between different methods.
+
+## Screenshot
 ![Fibonacci-Nth Screenshot](https://github.com/JMerch94/fibonacci-nth/blob/master/screenshot.png?raw=true)
 
-### Docker
+## Docker
 Compile with Clang and run fibonacci-nth on Ubuntu.
 
 > sudo docker build . -t fibonacci-nth
 
 > sudo docker run --rm -it fibonacci-nth
 
-### Generate a Build Using CMake
+## Generate a Build Using CMake
 https://cmake.org/download/
 
 Navigate to the root of the project and execute the following commands.

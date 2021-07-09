@@ -2,3 +2,4 @@
 bin
 build
 log.csv
+.DS_Store
